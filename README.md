@@ -7,7 +7,7 @@
   <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2>Tech Stack</h2>
+<h2>👨‍💻 Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,12 +39,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<h2>Stats</h2>
+<h2>📊 Stats</h2>
 
 <img src="https://myreadme.vercel.app/api/embed/TheMazer?panels=userstatistics,toprepositories,toplanguages,commitgraph">
 
 
-<h2>Social</h2>
+<h2>✉️ Social</h2>
 
 > How to reach me
 

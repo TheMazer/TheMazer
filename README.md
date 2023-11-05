@@ -1,6 +1,12 @@
 <h1 align="center">Hello, World! I am <a href="https://github.com/" target="_blank">Mazer</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 <h4 align="center">Hey, I am a Russian full-stack developer, developing desktop applications and websites.</h4>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MazepaImpostor/MazepaImpostor/38cabdbd723c6d014875e50f06248367d78e6b64/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MazepaImpostor/MazepaImpostor/38cabdbd723c6d014875e50f06248367d78e6b64/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h2>Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

@@ -2,8 +2,8 @@
 <h4 align="center">Hey, I am a Russian full-stack developer, developing desktop applications and websites.</h4>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MazepaImpostor/MazepaImpostor/38cabdbd723c6d014875e50f06248367d78e6b64/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MazepaImpostor/MazepaImpostor/38cabdbd723c6d014875e50f06248367d78e6b64/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheMazer/TheMazer/38cabdbd723c6d014875e50f06248367d78e6b64/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheMazer/TheMazer/38cabdbd723c6d014875e50f06248367d78e6b64/github-contribution-grid-snake.svg">
   <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
@@ -41,7 +41,7 @@
 
 <h2>Stats</h2>
 
-<img src="https://myreadme.vercel.app/api/embed/MazepaImpostor?panels=userstatistics,toprepositories,toplanguages,commitgraph">
+<img src="https://myreadme.vercel.app/api/embed/TheMazer?panels=userstatistics,toprepositories,toplanguages,commitgraph">
 
 
 <h2>Social</h2>

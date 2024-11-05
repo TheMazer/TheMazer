@@ -40,11 +40,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<h2>📊 Stats</h2>
-
-<img src="https://myreadme.vercel.app/api/embed/TheMazer?panels=userstatistics,toprepositories,toplanguages,commitgraph">
-
-
 <h2>✉️ Social</h2>
 
 > How to reach me

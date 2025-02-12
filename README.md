@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! I am <a href="https://github.com/" target="_blank">Mazer</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
-<h4 align="center">Hey, I am a Russian full-stack developer, developing desktop applications and websites.</h4>
+<h4 align="center">Hey, I am a Russian full-stack developer. Currently, I'm engaged in Game Development.</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheMazer/TheMazer/output/github-contribution-grid-snake-dark.svg">
